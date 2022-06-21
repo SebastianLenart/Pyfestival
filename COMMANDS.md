@@ -22,5 +22,23 @@ git config --global user.email "stentbike7@gmail.com"
 git config --global --list
 git config --global core.editor "code -w" WAZNE  DLA VSC!!!!!
 git info 
-
 git clone "link" w gitbashu potem cd pyfestival potem dir 
+git push               - Publikuje lokalne zmiany, czyli wysyłam je go repo zdalnego
+git pull               - Pobiera zmiany
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
