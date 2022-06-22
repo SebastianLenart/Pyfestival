@@ -26,7 +26,10 @@ git clone "link" w gitbashu potem cd pyfestival potem dir
 git push                    - Publikuje lokalne zmiany, czyli wysyłam je go repo    zdalnego
 git pull                    - Pobiera zmiany
 git checkout -b NazwaBrancha   - utworzenie nowej galezi
-
+git push --set-upstream origin feature/1-header-at-index        - tworzy nowy branch
+git branch -M main
+git remote add origin git@github.com:SebastianLenart/pyfestival2.git
+git push -u origin main
 
 
 
